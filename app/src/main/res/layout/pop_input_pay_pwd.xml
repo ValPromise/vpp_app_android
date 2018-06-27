@@ -44,7 +44,7 @@
             android:layout_height="1dp"
             android:background="@color/color_divider" />
 
-        <com.valpromise.vpp.view.PasswordInputView
+        <com.baotianqi.valpromise.view.PasswordInputView
             android:id="@+id/piv_pay_pwd"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

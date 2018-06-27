@@ -112,7 +112,7 @@ public abstract class RxSubscribe<T> implements Observer<T> {
         } else if (e instanceof ServerException) {
             if ("1001".equals(((ServerException) e).getCode())) {//token错误
                 Intent intent = new Intent();
-                intent.setAction("action:com.valpromise.vpp.LoginActivity");
+                intent.setAction("action:com.baotianqi.valpromise.LoginActivity");
                 mContext.startActivity(intent);
             } else {
                 _onError(e, e.getMessage());

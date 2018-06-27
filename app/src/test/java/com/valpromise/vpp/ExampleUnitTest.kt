@@ -1,4 +1,4 @@
-package com.valpromise.vpp
+package com.baotianqi.valpromise
 
 import org.junit.Test
 

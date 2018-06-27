@@ -21,7 +21,7 @@
             android:paddingLeft="10dp"
             android:visibility="visible" />
 
-        <com.valpromise.vpp.view.CleanableEditView
+        <com.baotianqi.valpromise.view.CleanableEditView
             android:id="@+id/cityInputText"
             android:layout_width="match_parent"
             android:layout_height="30dp"
@@ -62,7 +62,7 @@
             android:textSize="20sp"
             android:visibility="gone" />
 
-        <com.valpromise.vpp.view.sortlistview.SideBar
+        <com.baotianqi.valpromise.view.sortlistview.SideBar
             android:id="@+id/sidrbar"
             android:layout_width="30.0dp"
             android:layout_marginBottom="20dp"

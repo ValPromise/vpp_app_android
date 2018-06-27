@@ -6,7 +6,7 @@
     android:orientation="vertical">
 
 
-    <com.valpromise.vpp.view.MLineView
+    <com.baotianqi.valpromise.view.MLineView
         android:id="@+id/m_view"
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -56,7 +56,7 @@
                     android:textColor="@color/tv_3"
                     android:textSize="12sp" />
 
-                <com.valpromise.vpp.view.MySelectorView
+                <com.baotianqi.valpromise.view.MySelectorView
                     android:id="@+id/sv_number"
                     android:layout_width="match_parent"
                     android:layout_height="40dp"
